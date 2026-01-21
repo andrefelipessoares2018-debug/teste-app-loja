@@ -1,0 +1,5 @@
+{
+  "name": "Gestor Estoque",
+  "description": "A clean and intuitive stock control application for mobile and desktop, featuring local persistence, real-time inventory management, and low stock alerts.",
+  "requestFramePermissions": []
+}
